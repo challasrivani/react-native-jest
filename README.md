@@ -1,2 +1,1 @@
-# react-native-jest
-Testing variations and snapshot testing
+# React Native Testing using Jest
